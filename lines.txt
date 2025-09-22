@@ -1,0 +1,4 @@
+[line]Welcome to our podcast episode[/line]
+[line]Today we'll be discussing Python programming[/line]
+[line]Let's explore some audio processing techniques[/line]
+[line]This is our final segment for today[/line]
